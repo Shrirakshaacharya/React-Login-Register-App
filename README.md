@@ -2,7 +2,7 @@
 
 This project is a simple authentication system built using React, which includes Register and Login functionalities. Users can register with their details, including an uploaded image, and log in using their email and password. The project also features routing with react-router-dom.
 
-Features
+**Features**
 Register Page:
 Fields: Full Name, Email, Password, Company Name, Age, Date of Birth, and Upload Image.
 Validation to ensure all fields are filled.
@@ -18,12 +18,12 @@ Navigate between Register and Login pages.
 Error Handling:
 Displays error messages for missing required fields.
 
-Technologies Used
+**Technologies Used**
 React: For building the user interface.
 React Router DOM: For page navigation and routing.
 CSS: For basic styling.
 
-Installation and Setup
+**Installation and Setup**
 Follow these steps to set up the project on your local machine:
 
 Prerequisites
@@ -45,7 +45,7 @@ npm start
 Open your browser and navigate to:
 http://localhost:3001
 
-File Structure
+**File Structure**
 react-auth-system/
 ├── public/
 ├── src/
@@ -58,7 +58,7 @@ react-auth-system/
 ├── package.json              # Project configuration
 ├── README.md                 # Project documentation
 
-How to Use
+**How to Use**
 
 Register:
 Navigate to the Register page.
@@ -70,6 +70,7 @@ Login:
 Navigate to the Login page.
 Enter the email and password used during registration.
 Click the Login button to log in.
-Contributing
+
+**Contributing**
 Contributions are welcome! If you want to improve this project, feel free to fork the repository and submit a pull request.
 
