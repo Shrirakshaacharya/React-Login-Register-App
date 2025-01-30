@@ -1,6 +1,6 @@
 # React-Login-Register-App
 
-This project is a simple authentication system built using React, which includes Register and Login functionalities. Users can register with their details, including an uploaded image, and log in using their email and password. The project also features routing with react-router-dom.
+```This project is a simple authentication system built using React, which includes Register and Login functionalities. Users can register with their details, including an uploaded image, and log in using their email and password. The project also features routing with react-router-dom.
 
 **Features**
 Register Page:
@@ -72,5 +72,5 @@ Enter the email and password used during registration.
 Click the Login button to log in.
 
 **Contributing**
-Contributions are welcome! If you want to improve this project, feel free to fork the repository and submit a pull request.
+Contributions are welcome! If you want to improve this project, feel free to fork the repository and submit a pull request.```
 
