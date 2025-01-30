@@ -29,7 +29,7 @@ CSS: For basic styling.
 Follow these steps to set up the project on your local machine:
 
 Prerequisites
-Node.js: Ensure you have Node.js installed. You can download it from here.
+Node.js: Ensure you have Node.js installed. You can download it from https://nodejs.org/en.
 
 Steps
 Clone the repository:
@@ -41,7 +41,10 @@ cd react-auth-system
 Install dependencies:
 npm install
 
-Start the development server:
+start the backend server:
+node server.js
+
+Start the frondend server:
 npm start
 
 Open your browser and navigate to:
