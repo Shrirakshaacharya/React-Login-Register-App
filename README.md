@@ -46,7 +46,7 @@ Open your browser and navigate to:
 http://localhost:3001
 
 **File Structure**
-react-auth-system/
+```react-auth-system/
 ├── public/
 ├── src/
 │   ├── components/
@@ -56,7 +56,7 @@ react-auth-system/
 │   ├── App.js                # Main application file
 │   ├── index.js              # Entry point of the app
 ├── package.json              # Project configuration
-├── README.md                 # Project documentation
+├── README.md                 # Project documentation```
 
 **How to Use**
 
