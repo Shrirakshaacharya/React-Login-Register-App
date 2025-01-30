@@ -1,29 +1,31 @@
 # React-Login-Register-App
 
-```This project is a simple authentication system built using React, which includes Register and Login functionalities. Users can register with their details, including an uploaded image, and log in using their email and password. The project also features routing with react-router-dom.
+This project is a simple authentication system built using React, which includes Register and Login functionalities. Users can register with their details, including an uploaded image, and log in using their email and password. The project also features routing with react-router-dom.
 
 ## Features 
-Register Page:
+
+```Register Page:
 Fields: Full Name, Email, Password, Company Name, Age, Date of Birth, and Upload Image.
 Validation to ensure all fields are filled.
-Displays a "Thank You" message after successful registration.
+Displays a "Thank You" message after successful registration.```
 
-Login Page:
+```Login Page:
 Fields: Email and Password.
-Basic validation for login credentials.
+Basic validation for login credentials.```
 
-React Routing:
-Navigate between Register and Login pages.
+```React Routing:
+Navigate between Register and Login pages.```
 
-Error Handling:
-Displays error messages for missing required fields.
+```Error Handling:
+Displays error messages for missing required fields.```
 
-**Technologies Used**
-React: For building the user interface.
+## Features Used
+
+```React: For building the user interface.
 React Router DOM: For page navigation and routing.
-CSS: For basic styling.
+CSS: For basic styling.```
 
-**Installation and Setup**
+## Installation and Setup
 Follow these steps to set up the project on your local machine:
 
 Prerequisites
@@ -72,5 +74,5 @@ Enter the email and password used during registration.
 Click the Login button to log in.
 
 **Contributing**
-Contributions are welcome! If you want to improve this project, feel free to fork the repository and submit a pull request.```
+Contributions are welcome! If you want to improve this project, feel free to fork the repository and submit a pull request.
 
