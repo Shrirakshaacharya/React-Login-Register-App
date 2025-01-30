@@ -2,7 +2,7 @@
 
 ```This project is a simple authentication system built using React, which includes Register and Login functionalities. Users can register with their details, including an uploaded image, and log in using their email and password. The project also features routing with react-router-dom.
 
-**Features**
+## Features 
 Register Page:
 Fields: Full Name, Email, Password, Company Name, Age, Date of Birth, and Upload Image.
 Validation to ensure all fields are filled.
